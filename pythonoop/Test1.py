@@ -1,7 +1,7 @@
 '''
 Author: your name
 Date: 2020-06-19 11:20:33
-LastEditTime: 2020-12-15 11:48:09
+LastEditTime: 2020-12-16 13:48:28
 LastEditors: Please set LastEditors
 Description: In User Settings Edit
 FilePath: \PythonStudent\pythonoop\Test1.py
@@ -37,10 +37,10 @@ class Animal:
 a = Animal("狗", "旺旺！")
 b = Animal("猫", "喵！喵！")
 c = Animal("牛", "哞！哞！")
-d = Animal("二哈", "说人话！")
+e = Animal("二哈", "说人话！")
 
 # 调用动物类的发声方法
 a.speak()
 b.speak()
 c.speak()
-d.speak()
+e.speak()
